@@ -20,6 +20,14 @@
     align-items: center;
   }
 
+  #page-home main h1 {
+    font-size: 30px;
+  }
+
+  #page-home main p {
+    font-size: 20px;
+  }
+
   #page-search-results .cards {
     grid-template-columns: 1fr;
   }
