@@ -4,6 +4,19 @@ const server = express();
 // pegar o banco de dados
 const db = require("./database/db");
 
+// Criar uma places
+db.run(`
+CREATE TABLE IF NOT EXISTS places (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    image TEXT,
+    name TEXT,
+    address TEXT,
+    address2 TEXT,
+    state TEXT,
+    city TEXT,
+    items TEXT
+);`);
+
 // configurar pasta public
 server.use(express.static("public"));
 
