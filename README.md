@@ -1,33 +1,13 @@
-<div 
- alt="Sigla nlw 1"
- style="
+<p align="center">
+   <img width="30%" src="https://user-images.githubusercontent.com/16653840/89963795-f5d92600-dc1e-11ea-8185-616bb52833a1.png" alt="Primeira next level week">
+</p>
+
+
+<p style="
  color: #5c5c5c;
  font-family: sans-serif;
  text-align: justify;
  text-justify: inter-word;">
-
-<div style="
-  font-size: 5rem; 
-  display: flex;
-  align-items: center;
-  justify-content: center;">
-
-  <div style="color: #8257e5;"> &lt;</div>
-  <div style="margin-bottom: 0.6rem;">nlw</div> 
-  <div style="color: #8257e5;">/&gt;</div> 
-  <div style="
-   margin-left: 10px;
-   text-align: center;
-   color: #FFFFFF;
-   background: #8257e5;
-   border-radius: 30% / 50% ;
-   font-size: 35%;
-   font-weight: 600;
-   padding: 0.0rem 0.9rem;
-   width: 5rem" >#01</div>
-</div>
-
-<p>
     O repositório compreende as atividades 
     aplicadas durante a primeira Next Level Week. 
     Evento online de programação realizado pela 
@@ -52,4 +32,4 @@
 npm run start
 ```
 
-</div>
+
